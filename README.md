@@ -1,0 +1,2 @@
+# go-bindata
+Go BinData
